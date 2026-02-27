@@ -14,7 +14,7 @@ You can create a digital identity using your email or social login via Privy.
 Step 2: Funding
 The protocol operates using USDT, a digital dollar pegged 1:1 with the US Dollar.
  * Buying USDT: Purchase USDT directly within the app using a bank card or transfer through our integrated partner, Transak.
- * Minimums: A minimum initial deposit of $1,000 USDT is required to activate your first vault.
+ * Minimums: A minimum initial deposit of $1,000 USDT is required to activate your first vault. Subsequent deposit minimum is $250 USDT.
 3. The AI Experience (The Bridge)
 When you deposit, you engage in a conversational experience with the YieldLoop AI to set your strategy.
  * Goal Discovery: You tell the AI your financial objectives in plain language.
